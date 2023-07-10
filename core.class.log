@@ -1,0 +1,216 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0411876A8CD70D2E47C',
+    participant: undefined
+  },
+  messageTimestamp: 1687539004,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    conversation: 'buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenas',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09426EF3CE1C9421B4F',
+    participant: undefined
+  },
+  messageTimestamp: 1687539031,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0466E7251173D3A6D21',
+    participant: undefined
+  },
+  messageTimestamp: 1687539128,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2 medias ordenes',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2 medias ordenes',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB030D5A16465A0C691DF',
+    participant: undefined
+  },
+  messageTimestamp: 1687539170,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'y un quesataco y un taco atural',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'y un quesataco y un taco atural',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FD8877DE5DF18ADF15',
+    participant: undefined
+  },
+  messageTimestamp: 1687539194,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'y si se puede dos vasitos de consome',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'y si se puede dos vasitos de consome',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AC615E2E7C72843770',
+    participant: undefined
+  },
+  messageTimestamp: 1687539206,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'o uno mas grande pero siento que el medio litro es mucho',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'o uno mas grande pero siento que el medio litro es mucho',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B8057DBCE936C493E8',
+    participant: undefined
+  },
+  messageTimestamp: 1687539209,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si no se lo pedia',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si no se lo pedia',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216242352171@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B796210DA4FBB3A49C',
+    participant: undefined
+  },
+  messageTimestamp: 1687539327,
+  pushName: 'Karina Vdz',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://web.whatsapp.net',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/35739708_227586756743282_2720448796144642516_n.enc?ccb=11-4&oh=01_AdTYo57jyoVacJvjal8WbC7VnPr7-gRX5MocEBBmSjy3jw&oe=64BBFE13',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5216242352171'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216871735936@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACAE9A8950432B094AE',
+    participant: undefined
+  },
+  messageTimestamp: 1687551453,
+  pushName: '…',
+  broadcast: false,
+  message: Message {
+    conversation: 'No si me manda a donde mismo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No si me manda a donde mismo',
+  from: '5216871735936'
+}
